@@ -1,0 +1,25 @@
+{
+	"version": 1,
+	"changelists": [
+		{
+			"guid": "00000000000000000000000000000000",
+			"description": "Default Uncontrolled Changelist",
+			"files": [
+				"D:/githubgame/platkasoyun/Content/SideScrollerBP/BuildFiles/trimsheetscifi_door.uasset",
+				"D:/githubgame/platkasoyun/Content/SideScrollerBP/BuildFiles/trimsheetscifi_Plane_012.uasset",
+				"D:/githubgame/platkasoyun/Content/SideScrollerBP/Maps/level1.umap",
+				"D:/githubgame/platkasoyun/Content/SideScrollerBP/Blueprints/Enemy/EnemyBP.uasset",
+				"D:/githubgame/platkasoyun/Content/SideScrollerBP/Blueprints/DoorBP.uasset",
+				"D:/githubgame/platkasoyun/Content/SideScrollerBP/Blueprints/DoorBP_2.uasset",
+				"D:/githubgame/platkasoyun/Content/SideScrollerBP/Maps/level2.umap",
+				"D:/githubgame/platkasoyun/Content/SideScrollerBP/Blueprints/Enemy/EnemyBP2.uasset",
+				"D:/githubgame/platkasoyun/Content/SideScrollerBP/BuildFiles/Materials/mainmat.uasset",
+				"D:/githubgame/platkasoyun/Content/SideScrollerBP/BuildFiles/trimsheetscifi_Plane_009.uasset",
+				"D:/githubgame/platkasoyun/Content/SideScrollerBP/Blueprints/SideScrollerCharacter.uasset",
+				"D:/githubgame/platkasoyun/Content/SideScrollerBP/Blueprints/Enemy/OMURCEK_MESH_Physics3.uasset",
+				"D:/githubgame/platkasoyun/Content/SideScrollerBP/Blueprints/Enemy/OMURCEK_MESH.uasset",
+				"D:/githubgame/platkasoyun/Content/SideScrollerBP/Blueprints/BigBoss/OMURCEK_MESH_Physics3.uasset"
+			]
+		}
+	]
+}
